@@ -11,4 +11,4 @@ Musik dikenal sejak kehadiran manusia modern Homo sapiens yakni sekitar 180.000 
 diatas merupakan potongan dua data yang bisa dilihat bahwa kita memiliki 9 kolom yang tiap variabelnya memiliki tipe object. untuk mengetahui bahwa tipe datanya kita bisa lihat dari tabel berikut :
 ##
 ![image](https://user-images.githubusercontent.com/64015588/102445456-1d714c80-405e-11eb-8396-129bfb7c65b6.png)
-
+## Dapat dilanjutkan di notebook yang sudah di upload
